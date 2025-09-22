@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "gatos",
+    "votes": 18,
+    "links": [
+      {
+        "id": 1,
+        "url": "https://www.google.com/search?q=gatos&ie=UTF-8"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "elefantes",
+    "votes": 13,
+    "links": [
+      {
+        "id": 1,
+        "url": "https://www.google.com/search?q=gatos&ie=UTF-8"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "perros",
+    "votes": 14,
+    "links": []
+  },
+  {
+    "id": 6,
+    "title": "aguilas",
+    "votes": 6,
+    "links": []
+  },
+  {
+    "id": 7,
+    "title": "mariposa",
+    "votes": 1,
+    "links": []
+  }
+]
